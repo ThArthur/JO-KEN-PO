@@ -1,0 +1,43 @@
+body{
+	background-image: url("imagens/wllpp2.jpg");
+}
+
+#jogar{
+	margin: 100px 0 0 650px;
+}
+
+#titulo{
+	background-color: #04B404;
+	margin: 50px 500px 0 500px; 
+}
+
+#jogadorescolheu{
+	margin: 50px 0 0 400px;
+}
+
+#computadorescolheu{
+	margin: -25px 0 0 700px;
+}
+
+#resultado{
+	margin: 50px 550px 0 550px;
+	background-color: #04B404;
+
+}
+
+
+#pj{
+	margin: 50px 0 0 350px;
+}
+
+#pc{
+	margin: -21px 0 0 570px;
+}
+
+#empa{
+	margin: -22px 0 0 800px;
+}
+
+#regras{
+	margin: 50px 0 0 0;
+}
